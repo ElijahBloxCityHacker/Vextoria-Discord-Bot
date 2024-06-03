@@ -1,2 +1,2 @@
 # Vextoria-Discord-Bot
-Official Discord bot for Vextoria!
+get fucker wind
