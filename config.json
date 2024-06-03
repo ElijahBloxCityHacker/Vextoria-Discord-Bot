@@ -1,0 +1,14 @@
+{
+    "server_name": "Vextoria",
+	"server_id": "1234926638941077657",
+	"token": "#",
+	"role_ids": {
+		"verified": "1234979049500184617",
+        "donator": "1234979102767845419",
+		"membership": "1234979141850370099"
+	},
+	"db_host": "localhost",
+	"db_name": "#",
+	"db_user": "#",
+	"db_pass": "#"
+}
